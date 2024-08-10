@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: Spring_Security_Jdbc_auth
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: Shreyash@14
+    url: jdbc:mysql://localhost:3307/sbms
+    username: root
+  jpa:
+    show-sql: true
